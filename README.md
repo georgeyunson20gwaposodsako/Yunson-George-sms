@@ -1,9 +1,9 @@
 
 UniFAST-TDP Scholarship Management System
-Student Name: Cyd Nathaniel Malapote
+Student Name: George Yunson
 Project: UniFAST-TDP Scholarship Management System
 Framework: Laravel 10
-Date: February 2026
+Date: April 2026
 
 Project Feature List
 1. Authentication & User Management
